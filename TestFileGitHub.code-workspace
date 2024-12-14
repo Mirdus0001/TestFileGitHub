@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "LOGPACK",
+			"path": "../LOGPACK"
+		}
+	],
+	"settings": {}
+}
